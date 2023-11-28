@@ -1,0 +1,5 @@
+- Greetings, my name is Barış 👋. 
+- 🧑‍⚖️ I hold a degree in Law from Akdeniz University and have accumulated five years of experience practicing as an attorney.
+- 🖥️ My fascination with computer science has been a lifelong passion. Consequently, I am currently pursuing academic endeavors in Computer Programming at Istanbul University and Web Design and Coding at Anadolu University.
+- 🌱 Additionally, I am eagerly participating in the Patika+ Fullstack Web Development Bootcamp with great enthusiasm to become a proficient fullstack developer. I am actively completing the requisite coursework to achieve this objective.
+- 📫 How to reach me ... www.linkedin.com/in/bariscanberki
